@@ -3,6 +3,7 @@
 
 Clone this repo locally
 Create a branch out of master , (Locally)
+Get the app running without error (Before adding features)
 The application should accept the input and up on hitting enter, the text should showup below 
 THe user should be able to toggle the todo item
 Upon clicking the X button , user should be able to remove the item from the list. 
